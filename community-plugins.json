@@ -13159,5 +13159,12 @@
         "description": "Easily select text in backticks.",
         "repo": "cool-RR/backtick-text-selector"
     }
+    {
+        "id": "quick-outliner",
+        "name": "Quick Outliner",
+        "author": "MD",
+        "description": "Restructure your document on the fly while editing.",
+        "repo": "ujikol/obsidian-quick-outliner"
+    }
 ]
 
